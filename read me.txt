@@ -1,0 +1,3 @@
+若想要執行程式 
+環境架設 請參閱
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
