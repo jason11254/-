@@ -1,3 +1,5 @@
-�Y�Q�n����{�� 
-���Ҭ[�] �аѾ\
+若想要執行程式 
+server端 opencv tensorflow環境架設 請參閱
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
+環境架設完畢後在pc端執行pc-server.py
+pi端執行 resberrypi-client.py (需有mjpg-stream)才能開啟串流
